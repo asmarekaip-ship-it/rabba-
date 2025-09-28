@@ -1,0 +1,24 @@
+{
+  "short_name": "مدير الراتب",
+  "name": "مدير الراتب - تتبع مصاريفك الشهرية",
+  "description": "تطبيق ويب بسيط لمساعدتك على تتبع راتبك الشهري، وإضافة المقتطعات والنفقات، ومعرفة المبلغ المتبقي بسهولة.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#14b8a6"
+}
